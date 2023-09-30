@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  background-color: #E3FEBC;
+  
+}
+
+.container {
+  width: 350px;
+  margin: 150px auto;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+form {
+  margin-top: 100px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 3px solid #ccc;
+}
+
+button
+{
+  float: center;
+  background-color: black;
+  padding: 10px 171px;
+  color: #fff;
+  border-radius: 5px;
+  margin-right: 10px;
+  border: none;
+
+}
+

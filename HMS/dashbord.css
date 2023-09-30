@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  background-color: #fff;
+}
+
+header {
+  background-color: #77DA63;
+  color: #fff;
+  padding: 6px;
+}
+
+main {
+  margin: 0 auto;
+  width: 450px;
+}
+
+h1 {
+  font-family: cambria math;
+  font-size: 2.5em;
+  margin-top: 10px;
+
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #77DA63;
+  color: #fff;
+  padding:  0px;
+  text-align: center;
+}
+
+.link {
+  color: inherit;
+  color: #13E6EC;
+  text-decoration: none;
+}
